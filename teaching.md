@@ -7,6 +7,7 @@
 * Teach with real-life examples & use cases, plain simple web server always win OOP principles.
 * Less startup time \(Setting up Ruby vs PHP w/ LAMP\)
 * Go slow, everyone has different paces.
+* Skip unnecessary details, don't teach everything, emphasize only important points.
 * Make it fun!
 
 ## What I've been teaching
