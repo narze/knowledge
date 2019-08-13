@@ -8,6 +8,7 @@ It's quite fun taking notes on everything you learn. Apparently there are a few 
 
 ## Latest Changes
 
+* August 13, 2019 - Added [Typing](typing.md)
 * August 11, 2019 - Added [Japanese](japanese.md)
 * August 9, 2019 - Added [SuperDuper mode in Keyboard](keyboard.md#simultaneous-vi-mode-s-uper-d-uper-mode) & [QMK Firmwares](keyboard.md#qmk)
 * August 8, 2019 - Added [Keyboard](keyboard.md)

@@ -7,5 +7,6 @@
 * [macOS](macos.md)
 * [Ruby](ruby.md)
 * [Teaching](teaching.md)
+* [Typing](typing.md)
 * [TODOs](todos.md)
 
