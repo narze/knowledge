@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Command Line](command-line.md)
+* [Hackintosh](hackintosh.md)
 * [Japanese](japanese.md)
 * [Keyboard](keyboard.md)
 * [macOS](macos.md)
