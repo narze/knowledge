@@ -8,6 +8,7 @@ It's quite fun taking notes on everything you learn. Apparently there are a few 
 
 ## Latest Changes
 
+* August 17, 2019 - Add [GTD](getting-things-done-gtd.md)
 * August 16, 2019 - Added [Hackintosh](hackintosh.md)
 * August 13, 2019 - Added [Typing](typing.md)
 * August 11, 2019 - Added [Japanese](japanese.md)
