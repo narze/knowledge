@@ -1,5 +1,27 @@
 # Ruby
 
+## OptionParser
+
+Ruby standard library to help creating command line apps with arguments parsing
+
+```text
+require 'optparse'
+
+options = {}
+OptionParser.new do |opts|
+  opts.banner = "Usage: example.rb [options]"
+
+  opts.on("-v", "--[no-]verbose", "Run verbosely") do |v|
+    options[:verbose] = v
+  end
+end.parse!
+
+p options
+p ARGV
+```
+
+[Read more](https://ruby-doc.org/stdlib/libdoc/optparse/rdoc/OptionParser.html)
+
 ## String\#unpack & Array\#pack
 
 Useful for reading & parsing binary or hexadecimal data.
