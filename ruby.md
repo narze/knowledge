@@ -4,7 +4,7 @@
 
 Ruby standard library to help creating command line apps with arguments parsing
 
-```text
+```ruby
 require 'optparse'
 
 options = {}
