@@ -26,7 +26,7 @@ p ARGV
 
 Useful for reading & parsing binary or hexadecimal data.
 
-#### String\#unpack
+### String\#unpack
 
 Decodes string and returns array, according to template string given.
 
@@ -41,7 +41,7 @@ Decodes string and returns array, according to template string given.
 => [65, 66, 67]
 ```
 
-#### Array\#pack
+### Array\#pack
 
 Packs the contents of arr into a binary sequence, can reverse the unpack method.
 
@@ -64,7 +64,7 @@ Packs the contents of arr into a binary sequence, can reverse the unpack method.
 
 There are many directives to use building template strings. See Ruby docs for detail.
 
-#### References
+### References
 
 * [http://ruby-doc.org/core-2.6.3/String.html\#method-i-unpack](http://ruby-doc.org/core-2.6.3/String.html#method-i-unpack)
 * [http://ruby-doc.org/core-2.6.3/Array.html\#method-i-pack](http://ruby-doc.org/core-2.6.3/Array.html#method-i-pack)

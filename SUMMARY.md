@@ -8,6 +8,7 @@
 * [Japanese](japanese.md)
 * [Keyboard](keyboard.md)
 * [macOS](macos.md)
+* [Networking](networking.md)
 * [Ruby](ruby.md)
 * [Teaching](teaching.md)
 * [Typing](typing.md)
