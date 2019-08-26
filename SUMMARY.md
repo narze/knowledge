@@ -12,5 +12,6 @@
 * [Ruby](ruby.md)
 * [Teaching](teaching.md)
 * [Typing](typing.md)
+* [VSCode](vscode.md)
 * [TODOs](todos.md)
 

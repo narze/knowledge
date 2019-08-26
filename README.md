@@ -8,6 +8,7 @@ It's quite fun taking notes on everything you learn. Apparently there are a few 
 
 ## Latest Changes
 
+* August 26, 2019 - Added [VSCode](vscode.md#create-your-own-vscode-extension)
 * August 25, 2019 - Added [Networking : MikroTik](networking.md#mikrotik)
 * August 20, 2019 - Added [Ruby : OptionParser](ruby.md#optionparser)
 * August 17, 2019 - Added [GTD](getting-things-done-gtd.md)
