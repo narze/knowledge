@@ -8,6 +8,7 @@ It's quite fun taking notes on everything you learn. Apparently there are a few 
 
 ## Latest Changes
 
+* September 5, 2019 - Updated [Keyboard](keyboard.md)
 * August 26, 2019 - Added [VSCode](vscode.md#create-your-own-vscode-extension)
 * August 25, 2019 - Added [Networking : MikroTik](networking.md#mikrotik)
 * August 20, 2019 - Added [Ruby : OptionParser](ruby.md#optionparser)
