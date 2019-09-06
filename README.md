@@ -6,6 +6,11 @@ Welcome to my wiki, which I'll try to share everything I've learned.
 
 It's quite fun taking notes on everything you learn. Apparently there are a few people doing this as well, check it out [here](https://github.com/RichardLitt/meta-knowledge). You can start one yourself using [GitBook](https://www.gitbook.com) like mine.
 
+## TODOs
+
+A short note for myself
+- Learning new libs, tools using opinionated boilerplates vs. build from scratch
+
 ## Latest Changes
 
 * September 5, 2019 - Updated [Keyboard](keyboard.md)
