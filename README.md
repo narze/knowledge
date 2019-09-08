@@ -9,10 +9,12 @@ It's quite fun taking notes on everything you learn. Apparently there are a few 
 ## TODOs
 
 A short note for myself
-- Learning new libs, tools using opinionated boilerplates vs. build from scratch
+
+* Learning new libs, tools using opinionated boilerplates vs. build from scratch
 
 ## Latest Changes
 
+* September 8, 2019 - Added [TypeScript](typescript.md)
 * September 5, 2019 - Updated [Keyboard](keyboard.md)
 * August 26, 2019 - Added [VSCode](vscode.md#create-your-own-vscode-extension)
 * August 25, 2019 - Added [Networking : MikroTik](networking.md#mikrotik)

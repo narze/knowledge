@@ -13,5 +13,6 @@
 * [Teaching](teaching.md)
 * [Typing](typing.md)
 * [VSCode](vscode.md)
+* [TypeScript](typescript.md)
 * [TODOs](todos.md)
 
