@@ -6,6 +6,7 @@
 * [Golang](golang.md)
 * [Habit Building](habit-building.md)
 * [Hackintosh](hackintosh.md)
+* [Items & Gadgets](items-and-gadgets.md)
 * [Japanese](japanese.md)
 * [Keyboard](keyboard.md)
 * [macOS](macos.md)
