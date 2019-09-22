@@ -14,7 +14,7 @@ A short note for myself
 
 ## Latest Changes
 
-* September 22, 2019 - Added [Golang](golang.md)
+* September 22, 2019 - Added [Golang](golang.md), [Typing Techniques](typing.md#typing-techniques)
 * September 8, 2019 - Added [TypeScript](typescript.md)
 * September 5, 2019 - Updated [Keyboard](keyboard.md)
 * August 26, 2019 - Added [VSCode](vscode.md#create-your-own-vscode-extension)
