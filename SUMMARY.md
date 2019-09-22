@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Command Line](command-line.md)
 * [Getting Things Done \(GTD\)](getting-things-done-gtd.md)
+* [Golang](golang.md)
 * [Habit Building](habit-building.md)
 * [Hackintosh](hackintosh.md)
 * [Japanese](japanese.md)
