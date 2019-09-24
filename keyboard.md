@@ -25,7 +25,19 @@ My first split keyboard. I like the thumb keys and the mini LCD screens. I use s
 
 ## [Simultaneous Vi Mode](https://github.com/tekezo/Karabiner/blob/05ca98733f3e3501e0679814c3795d1cb57e177f/src/core/server/Resources/include/checkbox/simultaneouskeypresses_vi_mode.xml#L4-L10) / [\(S\)uper \(D\)uper Mode](https://github.com/jasonrudolph/keyboard#super-duper-mode)
 
-This setup tremendously improve my typing and coding productivity as I don't have to reach for arrow keys anymore. I implemented this mode both in software layer via [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) via [Goku](https://github.com/yqrashawn/GokuRakuJoudo) \([link](https://github.com/narze/laptop/blob/master/etc/karabiner.edn#L33)\), and in hardware layer with [QMK](https://qmk.fm/).
+This setup tremendously improve my typing and coding productivity as I don't have to reach for arrow keys anymore. I implemented this mode both in software layer via [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) via [Goku](https://github.com/yqrashawn/GokuRakuJoudo) \([link](https://github.com/narze/laptop/blob/master/etc/karabiner.edn#L33)\), and in hardware layer with [QMK](https://qmk.fm/). To activate this mode, press `S`+`D` at the same time then hold. You can use this mode to navigate tabs too.
+
+![SuperDuper mode layer](.gitbook/assets/superduper-mode-apple-keyboard.png)
+
+## Dev Mode with Z-Layer
+
+I add another layer to type symbols which are heavily used in coding. I choose `Z` key as it is near the shift key and not being used that much \(`Q` is less frequently used but sometimes hard to reach\)
+
+![Z-Layer on Apple Keyboard](.gitbook/assets/z-layer-apple.png)
+
+![Z-Layer on Planck](.gitbook/assets/z-layer-planck.png)
+
+I use [Keyboard Layout Editor](http://www.keyboard-layout-editor.com) to maintain the layout designs.
 
 ## Keyboard Layouts
 

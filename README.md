@@ -14,6 +14,7 @@ A short note for myself
 
 ## Latest Changes
 
+* September 24, 2019 - Added [Z-Layer](keyboard.md#dev-mode-with-z-layer) & layout images
 * September 22, 2019 - Added [Golang](golang.md), [Typing Techniques](typing.md#typing-techniques), [Items & Gadgets](items-and-gadgets.md)
 * September 8, 2019 - Added [TypeScript](typescript.md)
 * September 5, 2019 - Updated [Keyboard](keyboard.md)
