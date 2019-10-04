@@ -16,6 +16,21 @@
 * `vsce package`
 * `vsce publish`
 
+### Testing Extension
+
+End-to-end testing is not doable \(yet\), so that you cannot make clicks or typing commands. To test typing command arguments I use Sinon stub instead.
+
+```text
+// This mock clicking "Yes" label when your command runs and open Quick Pick dialog.
+
+let quickPickStub = stub(vscode.window, "showQuickPick")
+quickPickStub.resolves({ label: 'Yes' })
+
+await vscode.commands.executeCommand('extension.your.command.name')
+```
+
+Try separating the business logic and interaction with VS Code, then the logic can be tested with normal Javascript testing.
+
 ## Links
 
 * [https://code.visualstudio.com/api](https://code.visualstudio.com/api)
