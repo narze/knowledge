@@ -16,5 +16,6 @@ I practice typing in English with TypeRacer since my wpm was around 30'ish. Now 
 
 * [TypeRacer](http://typeracer.com)
 * [10FastFingers](http://10fastfingers.com)
+* [10FastFingers : Pattachote pratice texts](https://10fastfingers.com/text-practice/search/pattachote)
 * [Type Fu](https://type-fu.com/)
 
