@@ -6,7 +6,7 @@ Things worth buying, I always recommend these to my friends. Links are not affil
 * iPad with Apple Pencil
 * [OnePlus](http://oneplus.com/) phones, or go to Google Pixel if your country have one.
 * Full-size headphones with noise cancelling, I have [Sony MDR-1000X](https://www.sony.co.th/en/electronics/headband-headphones/mdr-1000x).
-* [Mechanical Keyboards](keyboard.md#mechanical-keyboards). Invest in something you use many hours a day.
+* [Mechanical Keyboards](keyboard/#mechanical-keyboards). Invest in something you use many hours a day.
 * [Amazfit Bip](https://en.amazfit.com/bip.html). 2+ weeks battery life, use daily with [Sleep As Android](https://sleep.urbandroid.org/) app.
 * [Baseus Magnetic USB Type-C Adapter](https://www.aliexpress.com/item/32924186463.html?spm=a2g0s.9042311.0.0.31684c4dQKyJRk). Supports USB-PD charging \(New Macbooks\)
 * [Tigernu Backpacks](https://www.tigernustore.com/). Good price & quality.

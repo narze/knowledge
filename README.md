@@ -12,22 +12,5 @@ A short note for myself
 
 * Learning new libs, tools using opinionated boilerplates vs. build from scratch
 
-## Latest Changes
 
-* September 24, 2019 - Added [Z-Layer](keyboard.md#dev-mode-with-z-layer) & layout images
-* September 22, 2019 - Added [Golang](golang.md), [Typing Techniques](typing.md#typing-techniques), [Items & Gadgets](items-and-gadgets.md)
-* September 8, 2019 - Added [TypeScript](typescript.md)
-* September 5, 2019 - Updated [Keyboard](keyboard.md)
-* August 26, 2019 - Added [VSCode](vscode.md#create-your-own-vscode-extension)
-* August 25, 2019 - Added [Networking : MikroTik](networking.md#mikrotik)
-* August 20, 2019 - Added [Ruby : OptionParser](ruby.md#optionparser)
-* August 17, 2019 - Added [GTD](getting-things-done-gtd.md)
-* August 16, 2019 - Added [Hackintosh](hackintosh.md)
-* August 13, 2019 - Added [Typing](typing.md)
-* August 11, 2019 - Added [Japanese](japanese.md)
-* August 9, 2019 - Added [SuperDuper mode in Keyboard](keyboard.md#simultaneous-vi-mode-s-uper-d-uper-mode) & [QMK Firmwares](keyboard.md#qmk)
-* August 8, 2019 - Added [Keyboard](keyboard.md)
-* August 8, 2019 - Added [Ruby](ruby.md) \([String\#pack & Array&unpack\)](ruby.md#string-unpack-and-array-pack)
-* Added [Command Line](command-line.md) page
-* Updated [macOS apps](macos.md#apps)
 
