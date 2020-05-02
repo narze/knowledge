@@ -4,7 +4,6 @@
 * [Command Line](command-line.md)
 * [Getting Things Done \(GTD\)](getting-things-done-gtd.md)
 * [Golang](golang.md)
-* [Habit Building](habit-building.md)
 * [Hackintosh](hackintosh.md)
 * [Items & Gadgets](items-and-gadgets.md)
 * [Japanese](japanese.md)
@@ -17,5 +16,6 @@
 * [Typing](typing.md)
 * [VSCode](vscode.md)
 * [TypeScript](typescript.md)
+* [Workflow](workflow.md)
 * [TODOs](todos.md)
 
