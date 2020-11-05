@@ -14,7 +14,7 @@ I switched to [Colemak Mod-DH](https://colemakmods.github.io/mod-dh) and it was 
 
 ## Links
 
-* [Monkeytype](https://monkeytype.com) *Recommended*
+* [Monkeytype](https://monkeytype.com) _Recommended_
 * [TypeRacer](http://typeracer.com)
 * [10FastFingers](http://10fastfingers.com)
 * [10FastFingers : Pattachote pratice texts](https://10fastfingers.com/text-practice/search/pattachote)

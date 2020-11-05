@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Coding](coding.md)
 * [Command Line](command-line.md)
 * [Getting Things Done \(GTD\)](getting-things-done-gtd.md)
 * [Golang](golang.md)
