@@ -2,7 +2,7 @@
 
 I practice typing in English with TypeRacer since my wpm was around 30'ish. Now my wpm is 80+ in Colemak and around 40-50 in Qwerty.
 
-![My TypeRacer stats as of now.](.gitbook/assets/image%20%289%29.png)
+I switched to [Colemak Mod-DH](https://colemakmods.github.io/mod-dh) and it was great too. If you're new to Colemak, I recommend the mod rather than the original.
 
 ## Typing Techniques
 
@@ -14,6 +14,7 @@ I practice typing in English with TypeRacer since my wpm was around 30'ish. Now 
 
 ## Links
 
+* [Monkeytype](https://monkeytype.com) *Recommended*
 * [TypeRacer](http://typeracer.com)
 * [10FastFingers](http://10fastfingers.com)
 * [10FastFingers : Pattachote pratice texts](https://10fastfingers.com/text-practice/search/pattachote)
