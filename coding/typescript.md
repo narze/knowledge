@@ -26,3 +26,6 @@ declare module 'wordcut' {
 }
 ```
 
+## Links
+
+- [Typescript confusion: tsconfig.json module, moduleResolution, target & lib explained](https://medium.com/@tommedema/typescript-confusion-tsconfig-json-module-moduleresolution-target-lib-explained-65db2c44b491)
