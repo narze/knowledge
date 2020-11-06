@@ -6,7 +6,7 @@
 * Install Yo with generator for VSCode extension `npm install -g yo generator-code` or `yarn global add yo generator-code`
 * Create new project `yo code`
 
-![VSCode Extension generator](.gitbook/assets/image%20%284%29.png)
+![VSCode Extension generator](../.gitbook/assets/image%20%284%29.png)
 
 ### Publishing
 
