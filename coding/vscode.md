@@ -40,4 +40,5 @@ Try separating the business logic and interaction with VS Code, then the logic c
 * [https://scotch.io/tutorials/create-your-first-visual-studio-code-extension](https://scotch.io/tutorials/create-your-first-visual-studio-code-extension)
 * [https://vscode.rocks/testing/](https://vscode.rocks/testing/)
 * [https://github.com/narze/switcheroo](https://github.com/narze/switcheroo) - My first extension
+* [From Editor to IDE](https://www.driftingruby.com/episodes/from-editor-to-ide) - Ruby VSCode extensions setup
 
