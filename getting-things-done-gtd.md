@@ -7,6 +7,7 @@ Before this I used to apply [Evernote](http://evernote.com) with GTD setup calle
 ## Links
 
 * [https://gettingthingsdone.com/](https://gettingthingsdone.com/)
+* [OmniFocus Workflows with Michael Kirkham-Jones](https://learnomnifocus.com/tutorial/2020-05-27-omnifocus-workflows-with-michael-kirkham-jones)
 
 
 

@@ -69,3 +69,4 @@ There are many directives to use building template strings. See Ruby docs for de
 * [http://ruby-doc.org/core-2.6.3/String.html\#method-i-unpack](http://ruby-doc.org/core-2.6.3/String.html#method-i-unpack)
 * [http://ruby-doc.org/core-2.6.3/Array.html\#method-i-pack](http://ruby-doc.org/core-2.6.3/Array.html#method-i-pack)
 * [https://www.rubyguides.com/2017/01/read-binary-data/](https://www.rubyguides.com/2017/01/read-binary-data/)
+* [Ruby one-liners](https://learnbyexample.github.io/learn_ruby_oneliners/one-liner-introduction.html) - Useful Ruby for command line usage

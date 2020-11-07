@@ -12,3 +12,6 @@ I maintain my own dotfiles within [my laptop script](https://github.com/narze/la
 
 Almost any command line apps \(and even macOS apps\) can be installed through [Homebrew](https://brew.sh/). My list of [command line apps](https://github.com/narze/laptop/blob/master/ansible/roles/packages/tasks/homebrew.yml) and [macOS apps](https://github.com/narze/laptop/blob/master/ansible/roles/packages/tasks/cask.yml) are listed in my Ansible playbooks which runs `brew install` and `brew cask install` through the list.
 
+## Links
+- [The Linux Commands Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) - 60 core `bash` commands
+
