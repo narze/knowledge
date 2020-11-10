@@ -1,4 +1,4 @@
-# Miscelleneous
+# Miscellaneous
 
 aka. `uncategorized`
 
